@@ -1,8 +1,6 @@
 # Capstone-1
 ACS Capstone 1
 
-Today's guest post comes from John Wheeler, the creator of Flask-Ask. John has been programming for two decades and has written for O'Reilly and IBM developerWorks.
-
 This post introduces Flask-Ask, a new Python micro-framework that significantly lowers the bar for developing Alexa skills. Flask-Ask is a Flask extension that makes building voice user interfaces with the Alexa Skills Kit easy and fun. We'll learn it by building a simple game that asks you to repeat three numbers backwards. Knowing Python and Flask are not required, but some experience programming will help.
 
 Create the Skill
