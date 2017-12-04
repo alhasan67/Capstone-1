@@ -1,0 +1,15 @@
+welcome: Welcome to guessing game. I'm going to think of a number and you will try to guess it, ready?
+
+game: Well, I am thinking of a number between 1 and 20. Take a guess.
+
+win: Good job, You guessed my number in {} guesses!
+
+lose: Sorry, that's the wrong answer.
+
+low: Your guess is too low.
+
+high: Your guess is too high.
+
+help: I'm going to think of a number between 1 and 20 and you will try to guess, ready?
+
+bye: Goodbye
